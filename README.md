@@ -5,7 +5,7 @@
 ### 📤 프로젝트 열기
 * 터미널을 열어 원격 저장소를 연결해줍니다
 * ```git init``` // 저장소 생성
-* ```git remote -v https://github.com/HIUMC/UMC-6th-Android-Study.git```  //저장소 내 컴퓨터 <-> 원격 연결
+* ```git remote -v https://github.com/HIUMC/UMC-7th-Android-Study.git```  //저장소 내 컴퓨터 <-> 원격 연결
 * ```git pull origin main```
 * terminal에서 자신의 branch로 checkout을 해주세요
     * ```git checkout origin [본인 github 아이디]```  //브랜치 개념 모른다면 구글링. 자신만의 공간을 만든다고 생각하시면 됩니다.
@@ -15,7 +15,7 @@
 위의 방식이 어렵다면 깃 Clone 하는 방법을 검색해보기
 
 ### 🏡 작업공간 생성
-* UMC-6th-Android-Study (프로젝트 루트 디렉토리)
+* UMC-7th-Android-Study (프로젝트 루트 디렉토리)
     * 본인 github 아이디명의 디렉토리 (본인 github 아이디로 설정해주세요!)
         * 노드 소스코드 or 워크북 공부하면서 배운 것 등등...
 
@@ -23,7 +23,7 @@
 | 본인 github 아이디명의 디렉토리부터 만들고 시작하시면 됩니다! 😊
 ```
 │
-└─ UMC-6th-Android-Study
+└─ UMC-7th-Android-Study
      │
      └─ do-dop (dir)
           │ 
