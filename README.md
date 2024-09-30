@@ -3,6 +3,5 @@
 
 
 
-
-
+230930 update. 1st-week WIL 추가
 240929 update. 1st-week mission 추가
