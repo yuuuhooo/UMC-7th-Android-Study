@@ -65,7 +65,7 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:id="@+id/imageView"
+                    android:id="@+id/stamp1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
@@ -88,7 +88,7 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:id="@+id/imageView2"
+                    android:id="@+id/stamp2"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
@@ -110,7 +110,7 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:id="@+id/imageView3"
+                    android:id="@+id/stamp3"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
@@ -133,7 +133,7 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:id="@+id/imageView4"
+                    android:id="@+id/stamp4"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
@@ -154,7 +154,7 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:id="@+id/imageView6"
+                    android:id="@+id/stamp5"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
@@ -170,7 +170,7 @@
 
     </LinearLayout>
 
-    <LinearLayout
+    <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/linearLayout2"
         android:layout_width="409dp"
         android:layout_height="110dp"
@@ -184,10 +184,12 @@
             android:id="@+id/imageView7"
             android:layout_width="25dp"
             android:layout_height="25dp"
-            android:layout_marginLeft="15dp"
-            android:layout_marginTop="20dp"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="24dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
             app:srcCompat="@drawable/back" />
-    </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
