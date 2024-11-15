@@ -1,16 +1,14 @@
-import org.jetbrains.kotlin.storage.CacheResetOnProcessCanceled.enabled
-
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
 }
 
 android {
-    namespace = "com.example.flo"
+    namespace = "com.example.memo"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.flo"
+        applicationId = "com.example.memo"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
@@ -19,14 +17,10 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
-      buildFeatures{
-          viewBinding = true
-          dataBinding = true
-     }
-
-//    dataBinding {
-//        enabled = true
-//    }
+    buildFeatures{
+        viewBinding = true
+        dataBinding = true
+    }
 
     buildTypes {
         release {

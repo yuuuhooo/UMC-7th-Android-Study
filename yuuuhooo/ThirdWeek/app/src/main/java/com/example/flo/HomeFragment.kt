@@ -11,12 +11,19 @@ class HomeFragment : Fragment() {
 
     lateinit var binding: FragmentHomeBinding
 
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+    }
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
         binding = FragmentHomeBinding.inflate(inflater, container, false)
+
+        binding.homeAlbumImgIv1.setOnClickListener {
+            (context as MainActivity).supportFragmentManager.beginTransaction().replace(R.id.main_frm, AlbumFragment()).commitAllowingStateLoss()
+        }
 
         return binding.root
     }
