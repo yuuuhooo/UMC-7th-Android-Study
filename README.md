@@ -2,8 +2,6 @@
 > 🦊 유후/주영서(yuuuhooo) 작성
 
 
-241003 update. 1st-week mission 수정
+ThirdWeek: FLO 클론코딩
 
-240930 update. 1st-week WIL 추가
-
-240929 update. 1st-week mission 추가
+FourthWeek: 타이머 만들기 
