@@ -1,4 +1,4 @@
-package com.example.homework4
+package com.example.memo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
