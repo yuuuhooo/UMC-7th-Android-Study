@@ -31,13 +31,14 @@ class MainActivity : AppCompatActivity() {
         create.show()
     }
 
-    override fun onStop() {
-        super.onStop()
+    override fun onPause() {
+        super.onPause()
         memo = binding.edtMain.text.toString()
-        binding.edtMain.text.clear()
+    }
 
-        val stop = Toast.makeText(this.applicationContext, "onStop", Toast.LENGTH_SHORT)
-        stop.show()
+    override fun onResume() {
+        super.onResume()
+        val text_onresume = binding.edtMain.text.toString()
     }
 
     override fun onRestart() {
