@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.flo.app-mergeDebugResources-35:/layout/fragment_home.xml",
+        "source": "com.example.flo.app-main-38:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.flo.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.flo.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.flo.app-mergeDebugResources-35:/layout/fragment_look.xml",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.flo.app-main-38:/layout/fragment_look.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.flo.app-mergeDebugResources-35:/layout/fragment_search.xml",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.flo.app-main-38:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.flo.app-mergeDebugResources-35:/layout/fragment_locker.xml",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.flo.app-main-38:/layout/fragment_locker.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.flo.app-mergeDebugResources-35:/layout/fragment_album.xml",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.flo.app-main-38:/layout/fragment_album.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.flo.app-mergeDebugResources-35:/layout/activity_song.xml",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.flo.app-main-38:/layout/activity_song.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.flo.app-mergeDebugResources-35:/layout/fragment_home.xml",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.flo.app-main-38:/layout/fragment_home.xml"
+    }
+]

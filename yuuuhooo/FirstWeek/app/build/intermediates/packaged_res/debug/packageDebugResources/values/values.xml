@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">first_week_mission</string>
+    <string name="stamp1_str">1번 우표를 클릭했을 때 화면입니다</string>
+    <string name="stamp2_str">2번 우표를 클릭했을 때 화면입니다</string>
+    <string name="stamp3_str">3번 우표를 클릭했을 때 화면입니다</string>
+    <string name="stamp4_str">4번 우표를 클릭했을 때 화면입니다</string>
+    <string name="stamp5_str">5번 우표를 클릭했을 때 화면입니다</string>
+    <style name="Base.Theme.First_week_mission" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.First_week_mission" parent="Base.Theme.First_week_mission"/>
+</resources>

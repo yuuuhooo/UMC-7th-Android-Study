@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="gray">#A2A2A2</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">second_week_mission</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="Base.Theme.Second_week_mission" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="BottomNavigationViewNoRipple" parent="Widget.MaterialComponents.BottomNavigationView">
+        
+        <item name="android:itemBackground">@android:color/transparent</item>
+        <item name="android:colorControlHighlight">@android:color/transparent</item>
+    </style>
+    <style name="Theme.Second_week_mission" parent="Base.Theme.Second_week_mission"/>
+</resources>

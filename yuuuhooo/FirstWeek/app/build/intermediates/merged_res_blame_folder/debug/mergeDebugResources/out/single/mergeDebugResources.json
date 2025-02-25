@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/drawable_stamp2.xml.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/drawable/stamp2.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/layout_activity_onclick5.xml.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/layout/activity_onclick5.xml"
+    },
+    {
+        "merged": "com.example.first_week_mission.app-debug-31:/layout_activity_onclick4.xml.flat",
+        "source": "com.example.first_week_mission.app-main-33:/layout/activity_onclick4.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/drawable_stamp5.xml.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/drawable/stamp5.xml"
+    },
+    {
+        "merged": "com.example.first_week_mission.app-debug-31:/layout_activity_onclick3.xml.flat",
+        "source": "com.example.first_week_mission.app-main-33:/layout/activity_onclick3.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/drawable_back.xml.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/drawable/back.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/layout_activity_onclick2.xml.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/layout/activity_onclick2.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/drawable_stamp1.xml.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/drawable/stamp1.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/layout_activity_onclick4.xml.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/layout/activity_onclick4.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/drawable_stamp3.xml.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/drawable/stamp3.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/layout_activity_onclick.xml.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/layout/activity_onclick.xml"
+    },
+    {
+        "merged": "com.example.first_week_mission.app-debug-31:/layout_activity_onclick2.xml.flat",
+        "source": "com.example.first_week_mission.app-main-33:/layout/activity_onclick2.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/layout_activity_onclick3.xml.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/layout/activity_onclick3.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/drawable_stamp4.xml.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/drawable/stamp4.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.first_week_mission.app-debug-31:/layout_activity_onclick5.xml.flat",
+        "source": "com.example.first_week_mission.app-main-33:/layout/activity_onclick5.xml"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yuuuhooomac/.gradle/daemon/8.7/com.example.first_week_mission.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.first_week_mission.app-debug-31:/layout_activity_onclick.xml.flat",
+        "source": "com.example.first_week_mission.app-main-33:/layout/activity_onclick.xml"
+    }
+]
